@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "author": "John Doe",
+        "source": "https://github.com/johndoe/typo-fixes",
+        "date": "2022-01-01",
+        "contact": "johndoe@example.com",
+        "version": "1.0",
+        "description": "A collection of common typo fixes",
+        "license": "MIT"
+    },
+    "mapping": {
+        "teh": "the",
+        "colour": "color",
+        "cant": "can't",
+        "dont": "don't",
+        "wont": "won't",
+        "im": "I'm",
+        "thier": "their",
+        "loose": "lose",
+        "loosing": "losing",
+        "recieve": "receive"
+    }
+}

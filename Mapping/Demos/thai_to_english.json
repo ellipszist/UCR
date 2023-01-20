@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "author": "Jane Smith",
+        "source": "From a research project",
+        "date": "2022-01-01",
+        "contact": "janesmith@example.com",
+        "version": "1.0",
+        "description": "This mapping file is used to convert Thai characters to their corresponding English characters.",
+        "license": "MIT"
+    },
+    "mapping": {
+        "ก": "A",
+        "ข": "B",
+        "ฃ": "C",
+        "ค": "D",
+        "ฅ": "E",
+        "ฆ": "F"
+    }
+}
